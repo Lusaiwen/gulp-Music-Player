@@ -1,0 +1,93 @@
+{
+  "id": "2465880",
+  "name": "gulp音乐播放器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "354321",
+      "name": "喜欢",
+      "font_class": "iconfontxihuan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "688097",
+      "name": "上一首 上一个",
+      "font_class": "shangyishoushangyige",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "688128",
+      "name": "下一个 下一首",
+      "font_class": "xiayigexiayishou",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "1110410",
+      "name": "下 箭头大",
+      "font_class": "jiantou8",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4641120",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "5023691",
+      "name": "正在播放",
+      "font_class": "zhengzaibofang",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "5037719",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5286699",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6057793",
+      "name": "叉",
+      "font_class": "fork",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "14719399",
+      "name": "添加  增加   加",
+      "font_class": "tianjiazengjiajia",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "15346591",
+      "name": "播放列表",
+      "font_class": "bofangliebiao",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "18939003",
+      "name": "播放中",
+      "font_class": "bofangzhong",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    }
+  ]
+}
