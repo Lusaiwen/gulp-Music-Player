@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-04-06 14:25:31
- * @LastEditTime: 2021-04-08 15:18:20
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \gulp-Music-Player\src\js\audio.js
- */
 (function ($, root) {
     class AudioManger{
         constructor(){

@@ -99,12 +99,13 @@ zepto.min.js
             ctx = canvas.getContext('2d');
 
         //这两个值越小，图片越模糊
-        canvas.width = 10;
-        canvas.height = 10;
+        canvas.width = 30;
+        canvas.height = 30;
 
 
         var img = new Image();
-        img.src = src;          
+        img.src = src;    
+        img.crossOrigin = true;      
         img.onload = function () {
 
             ctx.drawImage(img, 0, 0, img.width, img.height, 0, 0, canvas.width, canvas.height);

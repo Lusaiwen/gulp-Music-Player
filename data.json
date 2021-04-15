@@ -1,0 +1,34 @@
+[
+    {
+        "image": "http://p2.music.126.net/2iwn7NnfNwtdyu1enlJw_w==/83562883723773.jpg?param=130y130",
+        "audio": "http://m10.music.126.net/20210415133206/4352f9ad96b897f753c6151123b8210d/ymusic/0409/0558/005d/3c30ad207f221448759e7716e61df79d.mp3",
+        "song": "玫瑰花的葬礼",
+        "singer": "许嵩",
+        "duration": 259,
+        "isLike": false
+    },
+    {
+        "image": "http://p1.music.126.net/Md3RLH0fe2a_3dMDnfqoQg==/18590542604286213.jpg?param=130y130",
+        "audio": "http://m10.music.126.net/20210415133445/2caed876f99ac0837a1f808c9fdf7614/ymusic/a024/09a7/c4c3/fc0d416790bc729172c636e2d2d1109a.mp3",
+        "song": "有何不可",
+        "singer": "许嵩",
+        "duration": 241,
+        "isLike": false
+    },
+    {
+        "image": "http://p1.music.126.net/Wcs2dbukFx3TUWkRuxVCpw==/3431575794705764.jpg?param=130y130",
+        "audio": "http://m10.music.126.net/20210415133656/a222ea5d5f440cc2a0e2e65d9e831062/ymusic/08b0/9a14/9674/5d9c6e083d35d292c3fa3567363cbd96.mp3",
+        "song": "雅俗共赏",
+        "singer": "许嵩",
+        "duration": 249,
+        "isLike": false
+    },
+    {
+        "image": "http://p2.music.126.net/Md3RLH0fe2a_3dMDnfqoQg==/18590542604286213.jpg?param=130y130",
+        "audio": "/source/song_4.mp3",
+        "song": "清明雨上",
+        "singer": "许嵩",
+        "duration": 219,
+        "isLike": true
+    }
+]

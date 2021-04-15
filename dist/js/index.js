@@ -19,6 +19,7 @@
                 url: url,
                 method: 'GET',
                 success(res) {
+                    console.log(res);
                     _this.dataList = res;
                     _this.listControl();
                     _this.controlIndex = new player.controlIndex(res.length);
